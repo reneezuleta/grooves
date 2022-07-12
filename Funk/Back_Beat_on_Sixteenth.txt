@@ -1,3 +1,4 @@
 sign=4/4
 bpm=60
-groove=Funk;Back Beat on Sixteenth;2.0.90.11:10:10:10,6.0.60.1:0:0:8,10.0.75.8:2:4:0,
+reso=16
+groove=Funk;Back Beat on Sixteenth;2.0.90.11:10:10:10.3#75:7#75:15#75,6.0.75.1:0:0:8,10.0.90.8:2:4:0,
